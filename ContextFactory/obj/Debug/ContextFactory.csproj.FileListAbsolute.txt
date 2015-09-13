@@ -1,0 +1,5 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\ContextFactory\bin\Debug\ContextFactory.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\ContextFactory\bin\Debug\ContextFactory.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\ContextFactory\obj\Debug\ContextFactory.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\ContextFactory\obj\Debug\ContextFactory.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\ContextFactory\obj\Debug\ContextFactory.pdb

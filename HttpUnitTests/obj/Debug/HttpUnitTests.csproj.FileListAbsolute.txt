@@ -1,0 +1,9 @@
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\HttpUnitTests\bin\Debug\HttpUnitTests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\HttpUnitTests\bin\Debug\HttpUnitTests.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\HttpUnitTests\bin\Debug\ContextFactory.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\HttpUnitTests\bin\Debug\Moq.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\HttpUnitTests\bin\Debug\ContextFactory.pdb
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\HttpUnitTests\bin\Debug\Moq.xml
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\HttpUnitTests\obj\Debug\HttpUnitTests.csprojResolveAssemblyReference.cache
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\HttpUnitTests\obj\Debug\HttpUnitTests.dll
+C:\Users\Frank\Documents\Visual Studio 2012\Projects\ContextFactory\HttpUnitTests\obj\Debug\HttpUnitTests.pdb
